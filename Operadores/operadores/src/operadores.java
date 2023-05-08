@@ -1,4 +1,4 @@
-public class App {
+public class operadores {
     public static void main(String[] args) throws Exception {
         String nomeUm = "Matheus";
         String nomeDois = new String("Matheus");
