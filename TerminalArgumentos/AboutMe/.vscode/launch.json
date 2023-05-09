@@ -1,0 +1,54 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "Sintaxe-Java-DIO_2ba1f84f"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "MinhaClasse",
+            "projectName": "Sintaxe-Java-DIO_2ba1f84f"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "edu.matheus.primeiraAula.MinhaClasse",
+            "projectName": "Sintaxe-Java-DIO_2ba1f84f"
+        },
+        {
+            "type": "java",
+            "name": "boletimEstudantil",
+            "request": "launch",
+            "mainClass": "edu.matheus.segundaAula.boletimEstudantil",
+            "projectName": "Sintaxe-Java-DIO_2ba1f84f"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "args": [
+                "Matheus",
+                "Bezerra",
+                "19",
+                "1.75"
+            ]
+        }
+    ]
+}
