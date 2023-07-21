@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class NomeIdade {
     public static void main(String[] args) throws Exception {
+
         Scanner scanner = new Scanner(System.in);
 
         String nome;
